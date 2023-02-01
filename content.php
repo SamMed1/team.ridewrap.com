@@ -5,5 +5,5 @@
         echo "bbumk";
         echo "bijew";
         echo "nydcm";
-        echo "oulko";
+        echo "oshti";
 ?>
